@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/d1mm1n1ng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=#FFFFFF"/></a>
+<a href="https://www.instagram.com/d1mm1n1ng/" target="_blank"><img src="https://img.shields.io/badge/인스타그램-배경색?style=for-the-badge&logo=로고&logoColor=로고색상"/></a>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdwlals0617)](https://solved.ac/ghdwlals0617/)
 
